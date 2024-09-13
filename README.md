@@ -40,7 +40,7 @@ Během prácí na Gypsy Tesler spolu s kolegou Timem Mottem přišli s myšlenku
 (obrázek z merdeka.com)
 
 - Pracoval pro Apple, Amazon a Yahoo
-- vymyslel koncept kopírování a vkládání (spolu s Timem Mottem)
+- vymyslel koncept kopírování `Ctrl+C` a vkládání `Ctrl+V` (spolu s Timem Mottem)
 - spoluautor jazyka [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) - první dynamicky objektově orientovaný programovací jazyk
 - ukázal Stevu Jobsovi první počítač s grafickým prostředím ovládaný myší
 - prosazoval uživatelskou přívětivost (zakladatel disciplíny User Experience) 
