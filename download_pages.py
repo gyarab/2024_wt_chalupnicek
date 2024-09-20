@@ -1,6 +1,6 @@
 #!./venv/bin/python3
 
-# For each item in repo_list.txt download README.md file as ./referaty/pages/[README title].md
+# For each item in repo_list.txt download referat.md file as ./referaty/pages/[referat title].md
 
 import httpx
 import re
@@ -30,7 +30,7 @@ with open("url_list.txt") as file:
         text_lines = text.split('\n')
         for line in text_lines:
             if line.startswith("# "):
-                subject = line[1:].strip()[:20]
+                subject = line[1:].strip()[:30]
                 break
 
         # prepend link to original repo
