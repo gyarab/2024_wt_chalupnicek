@@ -4,6 +4,9 @@
 
 import httpx
 import re
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 with open("url_list.txt") as file:
     for url in file.readlines():
@@ -39,5 +42,5 @@ with open("url_list.txt") as file:
 
         print(f"                        {out_file_name}     {subject}")
 
-        with open(f"referaty/docs/pages/{out_file_name}", "w") as out_file:
+        with open(f"referaty/docs/pages/{out_file_name}", "w", encoding='utf-8') as out_file:
             out_file.write(text)
