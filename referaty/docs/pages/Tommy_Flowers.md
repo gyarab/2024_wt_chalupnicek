@@ -1,8 +1,7 @@
 from <https://github.com/gyarab/2024_wt_sz_ruchar>
 
-# Webové technologie 2024/25
-
-## Tommy Flowers (1905 - 1998)
+# Tommy Flowers
+## (1905 - 1998)
 
 ![Tommy Flowers za druhé světové války během jeho práce v Bletchley Park](https://upload.wikimedia.org/wikipedia/commons/8/84/Tommy_Flowers.jpg)
 

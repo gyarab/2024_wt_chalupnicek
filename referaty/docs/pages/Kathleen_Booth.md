@@ -1,10 +1,9 @@
 from <https://github.com/gyarab/2024_wt_sa_jelinkova>
 
-# Jana Jelínková, webové technologie 2024/25
-## Kathleen Booth (1922-2022)
-**Kathleen Boothová** byla významnou osobností v oblasti počítačových věd. Vytvořila první [assembly jazyk](https://cs.wikipedia.org/wiki/Jazyk_symbolick%C3%BDch_adres) pro počítačové systémy, který měl velký vliv na budoucí vývoj programovacích jazyků.
+# Kathleen Booth
+**Kathleen Boothová** (1922-2022) byla významnou osobností v oblasti počítačových věd. Vytvořila první [assembly jazyk](https://cs.wikipedia.org/wiki/Jazyk_symbolick%C3%BDch_adres) pro počítačové systémy, který měl velký vliv na budoucí vývoj programovacích jazyků.
 
-### Biografie
+## Biografie
 **Kathleen Boothová** se narodila 9. července 1922 v Anglii. Roku 1932 začalo její středoškolské vzdělání, dvakrát přestoupila na jinou střední školu.
 Chodila na tyto střední školy:
 * Sutton Coldfield High School

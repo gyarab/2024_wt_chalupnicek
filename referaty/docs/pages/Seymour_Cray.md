@@ -1,5 +1,6 @@
 from <https://github.com/gyarab/2024_wt_sa_frk>
 
+
 # Seymour Cray
 
 - narodil se 28.9 1925, zemřel 5.10 1996
@@ -14,5 +15,3 @@ from <https://github.com/gyarab/2024_wt_sa_frk>
 
 
 ![page not found](https://upload.wikimedia.org/wikipedia/commons/4/4a/Seymour_R._Cray.JPG)
-
-

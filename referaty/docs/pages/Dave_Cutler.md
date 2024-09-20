@@ -1,9 +1,6 @@
 from <https://github.com/gyarab/2024_wt_sz_wimmer>
 
-# 2024_wt_sz_wimmer
-Repozitář pro předmět [Webové technologie](https://www.gyarab.cz/predmety/WT).
-
-# Dave Cutler [1942 - součastnost]
+# Dave Cutler
 **David Neil Cutler Sr.** je americký softwarový inženýr. Vyvinul několik počítačových operačních systémů, jmenovitě Microsoft Windows NT & Digital Equipment Corporation RSX -11M, VAXELN & VMS.
 
 | **Osobní údaje** | |
