@@ -34,6 +34,3 @@ __(včetně označení toho kde se Linus narodil)__
 |3.|Turku|277 677|0|
 |4.|Oulu|205 137|0|
 |5.|Jyväskylä|128 911|0|
-
-### Opravdová adresa
-![link](https://github.com/gyarab/2024_wt_sa_bykov/blob/main/webtech/13sep-hw/LINUSTORVALDS.md)

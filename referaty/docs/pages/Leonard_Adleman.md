@@ -1,7 +1,7 @@
 from <https://github.com/gyarab/2024_wt_sa_dejmal>
 
-# Leonard Adleman (narozen 31. prosince roku 1945)
-Leonard Adleman je americký počítačový vědec, který spolu s Ronaldem Linn Rivestem a Adi Šamirem vyvinul šiforovací algoritmus RSA, za který získal v roce 2002 Turingovu cenu. V roce 1968 získal na Kalifornské univerzitě v Berkeley titul B.A. v matematice a v roce 1976 titul Ph.D. v oboru elektrotechniky a informatiky.
+# Leonard Adleman
+Leonard Adleman se narodil 31. prosince roku 1945. Je to americký počítačový vědec, který spolu s Ronaldem Linn Rivestem a Adi Šamirem vyvinul šiforovací algoritmus RSA, za který získal v roce 2002 Turingovu cenu. V roce 1968 získal na Kalifornské univerzitě v Berkeley titul B.A. v matematice a v roce 1976 titul Ph.D. v oboru elektrotechniky a informatiky.
 
 V roce 1994 jeho článek „Molecular Computation of Solutions to Combinatorial Problems“ popisoval experimentální použití DNA jako výpočetního systému. V něm vyřešil sedmiuzlovou instanci Hamiltonova grafu, což je NP-úplný problém podobný problému obchodního cestujícího.
 

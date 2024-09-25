@@ -1,6 +1,6 @@
 from <https://github.com/gyarab/2024_wt_sz_zazdravnykh>
 
-# Blaise Pascal  (19. června 1623 – 19. srpna 1662)
+# Blaise Pascal  
 ![portrét Blaise Pascala](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/274px-Blaise_Pascal_Versailles.JPG)
 
 Francouzský matematik, mechanik, fyzik, spisovatel, filozof a teolog. Klasik francouzské literatury, jeden ze zakladatelů matematické analýzy, teorie pravděpodobnosti a projektivní geometrie, tvůrce prvních příkladů výpočetní techniky, autor základního zákona hydrostatiky.Proslavil se ale také vynálezem mechanické kalkulačky.

@@ -1,6 +1,7 @@
 from <https://github.com/gyarab/2024_wt_sa_hrtan>
 
-# Jim Gray (1944-2012)
+# Jim Gray 
+(1944-2012)
 
 | | |
 | --- | --- |
