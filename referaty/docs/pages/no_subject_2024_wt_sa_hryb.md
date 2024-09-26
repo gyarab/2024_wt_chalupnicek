@@ -1,3 +1,0 @@
-from <https://github.com/gyarab/2024_wt_sa_hryb>
-
-404: Not Found
