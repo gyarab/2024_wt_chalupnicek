@@ -1,6 +1,7 @@
 from <https://github.com/gyarab/2024_wt_sz_wimmer>
 
-# AMD [Advanced Micro Devices, Inc.]
+# AMD 
+[Advanced Micro Devices, Inc.]
 
 ![AMD_Logo](https://logowik.com/content/uploads/images/amd7686.jpg)
 
@@ -59,7 +60,7 @@ Součastné logo divize Radeon Graphics [Grafické karty -> herní i profesioná
 
 > Například Coca-Cola si barvu volí jako svůj podpis po celá desetiletí. Červená povzbuzuje kupující ke konzumaci jejích nápojových produktů a je v souladu se vzrušujícím brandingem společnosti: Jejím současným heslem je „Real Magic“.
 
-### 4. Orandžová
+### 4. Oranžová
 > Tato jasná barva vyjadřuje sebevědomí, kreativitu a odvahu. A díky své zábavné povaze funguje dobře s nekorporátními značkami. Oranžová také vytváří hřejivý pocit, protože je spojena se sluncem.
 
 >Přesto má barva také některé nepříliš slunečné konotace. Může vyvolat pocity frustrace, deprivace a pomalosti. Může působit jako nezralý nebo neznalý. Ve skutečnosti 29 % lidí řadí oranžovou jako svou nejméně oblíbenou barvu. To je rozdíl mezi Hermès a Cheetos. 
@@ -73,8 +74,11 @@ Součastné logo divize Radeon Graphics [Grafické karty -> herní i profesioná
 
 > Na druhou stranu má modrá také negativní konotace. Modrých potravin je v přírodě málo, takže barva potlačuje naše chutě. Může také vyjadřovat pocity chladu a nepřátelství.
 
-> Blue Cross Blue Shield Association používá modrou barvu jak ve svém názvu, tak ve značce. Jako zdravotní pojišťovna musí vyvážit shromažďování osobních údajů a poskytování kvalitních služeb. Jeho barevné schéma
-signalizuje svým zákazníkům, že mohou společnosti důvěřovat a spolehnout se na ni při důležitých rozhodnutích.
+> Blue Cross Blue Shield Association používá modrou barvu jak ve svém názvu, tak ve značce. Jako zdravotní pojišťovna musí vyvážit shromažďování osobních údajů a poskytování kvalitních služeb. Jeho barevné schéma signalizuje svým zákazníkům, že mohou společnosti důvěřovat a spolehnout se na ni při důležitých rozhodnutích.
+
+---
+## Vlastní názor
+- 
 
 ---
 Pozn.: Tento rozbor je vztažen pouze k aktuálnímu logu [aktuálním logům] dané společnosti, logo [loga] společnosti se samozřejmně v průběhu let měnily i barevně.

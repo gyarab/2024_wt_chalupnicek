@@ -1,6 +1,6 @@
 from <https://github.com/gyarab/2024_wt_sz_yunussov>
 
-## TSMC
+# TSMC
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/800px-Tsmc.svg.png" alt="TSMC logo" width="200">
 
 TSMC (Taiwan Semiconductor Manufacturing Company) je jedním z největších výrobců polovodičů na světě. Logo TSMC je převážně červené a černé s bílými prvky.

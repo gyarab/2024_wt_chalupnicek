@@ -9,4 +9,4 @@ Za druhé světové války byl Turing nejdůležitějším z vědců, kteří v 
 >
 ![Jestli vidíte toto tak se vám nenačítá obrázek, ale je to Alan Turing](https://github.com/user-attachments/assets/2a156684-3467-4338-944e-d885a6626935)
 >
-Zdroje: https://cs.wikipedia.org/wiki/Alan_Turing
+Zdroje: [https://cs.wikipedia.org/wiki/Alan_Turing](https://cs.wikipedia.org/wiki/Alan_Turing)

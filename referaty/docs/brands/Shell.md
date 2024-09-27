@@ -1,6 +1,6 @@
 from <https://github.com/gyarab/2024_wt_sz_vytlacil>
 
-# Psychologie barev značky Shell
+# Shell
 Logo značky jak ho všichni známe je sitě červené a žluté. Přesně kvůli těm tom barvám je logo Shell tak dobře poznat. Už když z dálky vidíme na silnici tyto barvy jen rozmazané tak víme, že to je Shell.
 
 1. **Žlutá** bývá spojována s optimismem, teplem, štěstím a přátelstvím. V případě značky Shell tato barva může evokovat sluneční svit, světlo a pozitivní přístup, což přispívá k pocitu důvěry a otevřenosti vůči spotřebitelům

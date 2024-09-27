@@ -1,6 +1,8 @@
 from <https://github.com/gyarab/2024_wt_sz_vytlacil>
 
-# Max Newman otec prvního elektrického programovatelného počítače 1897-1984
+# Max Newman 
+## Otec prvního elektrického programovatelného počítače 1897-1984
+
 Max Newman byl matematik a lámč kodů , který žil za dob světových válek. Narodil se do židovské rodiny v městě Chelsea v Londýně se jménem Maxwell Herman Alexander Neumann. Kvůli tomu, že byl žid to za dob světových válek němel vůbec jednoduchý. Musel kvůli tomu přerušit studium a změnil si kvůlie okolnostem s tím i jméno. 
 
 Jeho největší díla byla založení prvního funkčního programovatelného elektronického počítače na světě s názvem Colossus, který udělal během druhé světové války. Také vytvořil stoj na lámaní kodů Heat Robinson. Založení Royal Society Computing Machine Laboratory na univerzitě v Manchesteru , která vytvořila první funkční, uložený program na světě. 

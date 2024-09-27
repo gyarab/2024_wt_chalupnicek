@@ -10,8 +10,8 @@ NYSE neboli New York Stock Exchange je největší burza s cennými papíry na s
 >
 Zdroje:
 >
-https://www.quora.com/What-is-the-symbolism-of-the-combined-colours-Black-and-blue
+[https://www.quora.com/What-is-the-symbolism-of-the-combined-colours-Black-and-blue](https://www.quora.com/What-is-the-symbolism-of-the-combined-colours-Black-and-blue)
 >
-https://blog.hubspot.com/the-hustle/psychology-of-color
+[https://blog.hubspot.com/the-hustle/psychology-of-color](https://blog.hubspot.com/the-hustle/psychology-of-color)
 >
-https://www.nyse.com/index
+[https://www.nyse.com/index](https://www.nyse.com/index)
