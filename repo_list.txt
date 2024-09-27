@@ -5,7 +5,6 @@
 2024_wt_sa_cernek
 2024_wt_sa_dejmal
 2024_wt_sa_frk
-2024_wt_sa_genzer
 2024_wt_sa_hrtan
 2024_wt_sa_hruska
 2024_wt_sa_hruskaj
@@ -30,3 +29,5 @@
 2024_wt_sz_wimmer
 2024_wt_sz_yunussov
 2024_wt_sz_zazdravnykh
+
+2024_wt_chalupnicek
