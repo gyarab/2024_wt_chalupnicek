@@ -5,11 +5,11 @@ from <https://github.com/gyarab/2024_wt_sa_bykov>
 
 ![Logo ČD](https://cd.brandcloud.pro/storage/10010/previews/1000x/acbf6d45f38701e280fbaa2bacdf9d63.webp)
 
-České dráhy vyuižívají 3 základní barvy *(odkaz na stránky značky ČD - https://cd.brandcloud.pro/document/47790/104659)* jak na logu, tak i na jednotlivých vlacích.
+České dráhy vyuižívají 3 základní barvy *[odkaz na stránky značky ČD](https://cd.brandcloud.pro/document/47790/104659)* jak na logu, tak i na jednotlivých vlacích.
 
 ![Fotografie motorového vozu 810 ve stanici Protivín](https://www.vagonweb.cz/fotogalerie/foto/201202/810575-Protivin.jpg) *Zde vidíme motorový vůž 810 ve st. Protivín*
 
-Schéma se lidově jmenuje "Najbrt" podle grafického studia které jí vytvořilo. (https://www.najbrt.cz/prace/ceske-drahy).
+Schéma se lidově jmenuje "Najbrt" [podle grafického studia které jí vytvořilo.](https://www.najbrt.cz/prace/ceske-drahy).
 Vytvořili také písmo ČD, které je založena na Fedra Sans. Logicky se pak písmo jmenuje **ČD Fedra Sans**.
 
 ## Barvy
@@ -27,8 +27,8 @@ Barvy Českých drah vyobrazují všechno co ČD chce být, i když občas neús
 
 ## Zdroje
 
-1. Psychlogie barev - https://www.scienceofpeople.com/color-psychology/
-2. Stránka značky ČD - https://cd.brandcloud.pro/en/
-3. Sekce pro média, skupina ČD - https://www.ceskedrahy.cz/pro-media
-4. Fotogalerie vozů ČD stránky VagónWeb - https://www.vagonweb.cz/fotogalerie/CZ/index_CD.php
-5. Studio Najbrt - https://www.najbrt.cz/prace
+1. [Psychlogie barev](https://www.scienceofpeople.com/color-psychology/)
+2. [Stránka značky ČD](https://cd.brandcloud.pro/en/)
+3. [Sekce pro média, skupina ČD](https://www.ceskedrahy.cz/pro-media)
+4. [Fotogalerie vozů ČD stránky VagónWeb](https://www.vagonweb.cz/fotogalerie/CZ/index_CD.php)
+5. [Studio Najbrt](https://www.najbrt.cz/prace)

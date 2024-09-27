@@ -2,6 +2,7 @@ from <https://github.com/gyarab/2024_wt_sa_jelinkova>
 
 # Vinea
 Vinea je slovenská značka syceného nealkoholického nápoje z hroznů, na jejímž logu v pozadí dominuje zelená barva a vepředu je bílý nápis. 
+
 * Bílá symbolizuje čistotu a mír.
 * Zelená symbolizuje svěžest, rovnováhu, zdraví a přírodu, vytváří tím tak dojem, že je nápoj kvalitnější a ekologický.
 

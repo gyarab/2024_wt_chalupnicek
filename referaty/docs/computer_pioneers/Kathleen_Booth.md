@@ -6,6 +6,7 @@ from <https://github.com/gyarab/2024_wt_sa_jelinkova>
 ## Biografie
 **Kathleen Boothová** se narodila 9. července 1922 v Anglii. Roku 1932 začalo její středoškolské vzdělání, dvakrát přestoupila na jinou střední školu.
 Chodila na tyto střední školy:
+
 * Sutton Coldfield High School
 * West Bromwich Secondary School
 * King Edward VI's High School for Girls v Birminghamu
